@@ -1,0 +1,25 @@
+body{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+   
+}
+
+.col-8{
+    height:400px;
+    background-color: greenyellow;
+    margin-bottom: 20px;
+    
+}
+#first{
+    height: 200px;
+    background-color:aqua;
+}
+#second{
+    height: 200px;
+    background-color:darkgoldenrod;
+}
+.col-4{
+    height: 200px;
+}
